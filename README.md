@@ -1,2 +1,2 @@
-# Digital_Circuit_Design
+# Digital_Circuit_L
 Digital Circuit Design Lab 
